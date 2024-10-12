@@ -6,8 +6,8 @@ export default function BrandArea() {
     <section className="brand-sec1">
         <div className="brand-title-area">
             <div className="title-area2">
-            <span className="subtitle">Our Trusted Partner</span>
-            <h3 className="title">The Brands we work with and believe in...</h3>
+            <span className="subtitle">Partenerul Nostru</span>
+            <h3 className="title">Firmele cu care lucram si in care avem incredere...</h3>
             </div>
         </div>
         <div className="container">

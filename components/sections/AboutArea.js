@@ -10,7 +10,7 @@ export default function AboutArea() {
                 <div className="col-xl-6 mb-30 mb-xl-0">
                     <div className="img-box1">
                     <div className="img1">
-                        <img src="/img/normal/about_1_1.webp" alt="About" />
+                        <img src="/img/normal/about_1_1.webp" alt="Despre" />
                         <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -24,10 +24,10 @@ export default function AboutArea() {
                         <img src="img/normal/about_1_2.webp" alt="Image" />
                     </div>
                     <div className="year-counter">
-                        <div className="year-counter_number">50</div>
+                        <div className="year-counter_number">20</div>
                         <div className="media-body">
-                        <span className="year-counter_text">Plumbing Services</span>
-                        <span className="year-counter_title">Years Experiences</span>
+                        <span className="year-counter_text">Servicii de Instalatii</span>
+                        <span className="year-counter_title">Ani Experienta</span>
                         </div>
                     </div>
                     </div>
@@ -36,33 +36,29 @@ export default function AboutArea() {
                     <div className="title-area mb-30">
                     <span className="sub-title">
                         <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                        About Our Company
+                        Despre Noi
                     </span>
                     <h2 className="sec-title">
-                        Our Company Provide The Best Plumbing Service
+                        Oferim o gama excelenta de servicii in domeniul instalatiilor sanitare
                     </h2>
                     </div>
                     <p className="mt-n2 mb-30">
-                    Our skilled technicians are equipped with the latest tools and
-                    technology to quickly diagnose and solve any plumbing issue. We're
-                    available 24/7 for repairs, so you can rest easy knowing we're always
-                    just a phone call away. At our plumbing service, we pride ourselves on
-                    providing prompt, and affordable service.
+                    Tehnicienii noștri calificați sunt echipați cu cele mai recente unelte și tehnologii pentru a diagnostica și rezolva rapid orice problemă de instalații sanitare. Suntem disponibili 24/7 pentru reparații, astfel încât să poți sta liniștit știind că suntem mereu la un apel distanță. Prin serviciul nostru de instalații sanitare, ne mândrim cu furnizarea unui serviciu prompt și accesibil.
                     </p>
                     <div className="checklist style2 mb-40">
                     <ul>
                         <li>
-                        <i className="fa-solid fa-badge-check" /> Planning
+                        <i className="fa-solid fa-badge-check" /> Proiectare
                         </li>
                         <li>
-                        <i className="fa-solid fa-badge-check" /> Replacing
+                        <i className="fa-solid fa-badge-check" /> Inlocuire
                         </li>
                         <li>
-                        <i className="fa-solid fa-badge-check" /> Installing
+                        <i className="fa-solid fa-badge-check" /> Instalare
                         </li>
                     </ul>
                     </div>
-                    <Link href="/aboutus" passHref className="themeholy-btn">About More</Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn">Mai multe despre noi</Link>
                 </div>
             </div>
         </div>

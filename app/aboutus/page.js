@@ -13,7 +13,7 @@ const page = () => {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="About Us" />
+        <Breadcrumbs breadcrumbTitle="Despre noi" />
         <FeaturesArea />
         <AboutArea />
         <CounterArea />

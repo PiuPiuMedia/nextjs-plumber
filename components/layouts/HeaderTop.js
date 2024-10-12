@@ -8,7 +8,7 @@ export default function HeaderTop() {
         <div className="row justify-content-center justify-content-lg-between align-items-center gy-2">
                 <div className="col-auto d-none d-lg-block">
                 <p className="header-notice">
-                    Welcome to Pristine Plumbing &amp; Repairing Service.
+                    Bine ați venit la Mia Smart - Servicii de Instalatii Sanitare si Reparatii
                 </p>
                 </div>
                 <div className="col-auto">
@@ -16,7 +16,7 @@ export default function HeaderTop() {
                     <ul>
                     <li>
                         <i className="fal fa-clock" />
-                        Work Time: Mon - Fri 09AM - 6PM
+                        Program de Lucru:  Luni-Vineri  09:00-18:00
                     </li>
                     <li>
                         <div className="social-links">

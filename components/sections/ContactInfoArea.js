@@ -11,8 +11,8 @@ export default function ContactInfoArea() {
                 <div className="contact-feature_icon">
                     <img src="img/icon/contact_2_1.svg" alt="icon" />
                 </div>
-                <span className="contact-feature_subtitle">OUR OFFICE LOCATION</span>
-                <h3 className="box-title">Englewood, CO, US, 80110</h3>
+                <span className="contact-feature_subtitle">Locatie</span>
+                <h3 className="box-title">Bucuresti, str. Sura Mare, sector 4</h3>
                 </div>
             </div>
             <div className="col-lg-4">
@@ -20,9 +20,9 @@ export default function ContactInfoArea() {
                 <div className="contact-feature_icon">
                     <img src="img/icon/contact_2_2.svg" alt="icon" />
                 </div>
-                <span className="contact-feature_subtitle">Have A Question?</span>
+                <span className="contact-feature_subtitle">Aveti o intrebare ?</span>
                 <h3 className="box-title">
-                    <a href="tel:+254621421536">+2546 214 21536</a>
+                    <a href="tel:+40738647433"> 0738.647.433</a>
                 </h3>
                 </div>
             </div>
@@ -32,9 +32,9 @@ export default function ContactInfoArea() {
                     <img src="img/icon/contact_2_3.svg" alt="icon" />
                 </div>
                 <div className="contact-feature_content">
-                    <span className="contact-feature_subtitle">Email Us On</span>
+                    <span className="contact-feature_subtitle">Scrieti-ne un Email catre</span>
                     <h3 className="box-title">
-                    <a href="mailto:service@pristineplumb.com">service@pristineplumb.com</a>
+                    <a href="mailto:service@pristineplumb.com">crusanescu@gmail.com</a>
                     </h3>
                 </div>
                 </div>

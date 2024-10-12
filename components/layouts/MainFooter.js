@@ -16,21 +16,20 @@ export default function MainFooter() {
                 </div>
                 <div className="themeholy-widget-schedule">
                     <p className="text">
-                    A plumber is a tradesperson who specializes in installing,
-                    repairing.
+                    Suntem o companie specializata în proiecte de reparatii și instalatii sanitare rezidentiale.
                     </p>
-                    <h4 className="title">Working Hours:</h4>
+                    <h4 className="title">Program de Functionare</h4>
                     <p className="schedule-info">
-                    <span>Mon - Fri</span>
-                    <span>8:00 AM - 6:00 PM</span>
-                    </p>
-                    <p className="schedule-info">
-                    <span>Saturday</span>
-                    <span>9:00 AM - 5:00 PM</span>
+                    <span>Luni - Vineri</span>
+                    <span>8:00 - 18:00 PM</span>
                     </p>
                     <p className="schedule-info">
-                    <span>Sunday</span>
-                    <span>Closed</span>
+                    <span>Sambata</span>
+                    <span>9:00 - 17:00</span>
+                    </p>
+                    <p className="schedule-info">
+                    <span>Duminica</span>
+                    <span>Inchis</span>
                     </p>
                 </div>
                 </div>
@@ -40,7 +39,7 @@ export default function MainFooter() {
                 <div className="newsletter-wrap">
                     <div className="newsletter-content">
                     <h4 className="newsletter-title">
-                        Sign Up to get updates &amp; news about us.
+                        Înscrie-te pentru a primi actualizări și noutăți despre noi.
                     </h4>
                     </div>
                     <form className="newsletter-form">
@@ -63,44 +62,44 @@ export default function MainFooter() {
                 <div className="row justify-content-between">
                     <div className="col-sm-6 col-md-auto">
                     <div className="widget widget_nav_menu footer-widget">
-                        <h3 className="widget_title">Quick Links</h3>
+                        <h3 className="widget_title">Linkuri rapide</h3>
                         <div className="menu-all-pages-container">
                         <ul className="menu">
-                            <li><Link href="/aboutus" passHref>About Us</Link></li>
-                            <li><Link href="/services" passHref className="menu-item-has-children" >Services</Link></li>
-                            <li><Link href="/projects" passHref>Projects</Link></li>
-                            <li><Link href="/teams" passHref>Teams</Link></li>
-                            <li><Link href="/faq" passHref>FAQ</Link></li>
-                            <li><Link href="/contactus" passHref>Contact Us</Link></li>
+                            <li><Link href="/aboutus" passHref>Despre Noi</Link></li>
+                            <li><Link href="/services" passHref className="menu-item-has-children" >Servicii</Link></li>
+                            <li><Link href="/projects" passHref>Proiecte</Link></li>
+                            <li><Link href="/teams" passHref>Echipa</Link></li>
+                            <li><Link href="/faq" passHref>Intrebari Frecvente</Link></li>
+                            <li><Link href="/contactus" passHref>Contactati-ne</Link></li>
                         </ul>
                         </div>
                     </div>
                     </div>
                     <div className="col-sm-6 col-md-auto">
                     <div className="widget widget_nav_menu footer-widget">
-                        <h3 className="widget_title">Popular Services</h3>
+                        <h3 className="widget_title">Servicii Populare</h3>
                         <div className="menu-all-pages-container">
                         <ul className="menu">
-                            <li><Link href="/services/bathroom-plumbing" passHref>Bathroom Plumbing</Link></li>
-                            <li><Link href="/services/drain-plumbing" passHref>Drain Plumbing</Link></li>
-                            <li><Link href="/services/waterline-repair" passHref>Water Line Repair</Link></li>
-                            <li><Link href="/services/kitchen-plumbing" passHref>Kitchen Plumbing</Link></li>
-                            <li><Link href="/services/gasline-services" passHref>Gas Line Services</Link></li>
-                            <li><Link href="/services/pipe-cleaning" passHref>Pipe Cleaning</Link></li>
+                            <li><Link href="/services/bathroom-plumbing" passHref>Instalații sanitare pentru baie</Link></li>
+                            <li><Link href="/services/drain-plumbing" passHref>Instalații de drenaj</Link></li>
+                            <li><Link href="/services/waterline-repair" passHref>Reparații conducte de apă</Link></li>
+                            <li><Link href="/services/kitchen-plumbing" passHref>Instalații sanitare pentru bucătărie</Link></li>
+                            <li><Link href="/services/gasline-services" passHref>Servicii pentru conducte de gaz</Link></li>
+                            <li><Link href="/services/pipe-cleaning" passHref>Curățare țevi</Link></li>
                         </ul>
                         </div>
                     </div>
                     </div>
                     <div className="col-sm-6 col-md-auto">
                     <div className="widget footer-widget">
-                        <h3 className="widget_title">Contact Us</h3>
+                        <h3 className="widget_title">Contactati-ne</h3>
                         <div className="themeholy-widget-contact">
                         <div className="info-box">
                             <div className="info-box_icon">
                             <i className="fas fa-location-dot" />
                             </div>
                             <p className="info-box_text">
-                            Englewood, CO, US, 80110
+                            Bucuresti, Sector 4, str. Sura Mare
                             </p>
                         </div>
                         <div className="info-box">
@@ -108,8 +107,8 @@ export default function MainFooter() {
                             <i className="fas fa-phone" />
                             </div>
                             <p className="info-box_text">
-                            <a href="tel:(720) 414-5942" className="info-box_link">
-                                (720) 414-5942
+                            <a href="tel:+40738647433" className="info-box_link">
+                                0738.647.433
                             </a>
                             </p>
                         </div>
@@ -119,10 +118,10 @@ export default function MainFooter() {
                             </div>
                             <p className="info-box_text">
                             <a
-                                href="mailto:service@pristineplumb.com"
+                                href="mailto:crusanescu@gmail.com"
                                 className="info-box_link"
                             >
-                                service@pristineplumb.com
+                                crusanescu@gmail.com
                             </a>
                             </p>
                         </div>
@@ -139,9 +138,8 @@ export default function MainFooter() {
             <div className="row justify-content-between align-items-center">
                 <div className="col-lg-6">
                 <p className="copyright-text">
-                    Copyright <i className="fal fa-copyright" /> 2023{" "}
-                    Pristine Plumbing & Repairing Service. All Rights
-                    Reserved.
+                    Copyright <i className="fal fa-copyright" /> 2024{" "}
+                    SC Mia Smart SRL. Toate drepturile rezervate.
                 </p>
                 </div>
                 <div className="col-lg-auto text-end d-none d-lg-block">

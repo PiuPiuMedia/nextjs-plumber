@@ -30,11 +30,11 @@ export default function MainHeader() {
                             </div>
                             <div className="media-body">
                             <span className="header-info_label">
-                                Call Us Any Time:
+                                Ne puteti contacta la orice ora:
                             </span>
                             
-                            <a href="tel:+16326543654" className="header-info_link">
-                               (720) 414-5942
+                            <a href="tel:+40738647433" className="header-info_link">
+                                0738.647.433
                             </a>
                             </div>
                         </div>
@@ -45,12 +45,12 @@ export default function MainHeader() {
                             <i className="fas fa-messages" />
                             </div>
                             <div className="media-body">
-                            <span className="header-info_label">Email Us: </span>
+                            <span className="header-info_label">Trimiteti un Email: </span>
                             <a
-                                href="mailto:info@plumer.com"
+                                href="mailto:crusanescu@gmail.com"
                                 className="header-info_link"
                             >
-                                service@pristineplumb.com
+                                crusanescu@gmail.com
                             </a>
                             </div>
                         </div>
@@ -62,20 +62,20 @@ export default function MainHeader() {
                             </div>
                             <div className="media-body">
                             <span className="header-info_label">
-                                Our Office Location:{" "}
+                                Locatie:{" "}
                             </span>
                             <a
                                 href="https://www.google.com/maps"
                                 className="header-info_link"
                             >
-                                Englewood, CO, US, 80110
+                                Bucuresti, str. Sura Mare, sector 4
                             </a>
                             </div>
                         </div>
                         </div>
                         <div className="col-auto d-none d-xxl-block">
                             <Link href="/contactus" passHref className="themeholy-btn style4">
-                                Get a Quote
+                                Solicitati o Oferta
                             </Link>
                         </div>
                     </div>

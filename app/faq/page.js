@@ -7,7 +7,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="FAQ" />
+        <Breadcrumbs breadcrumbTitle="Intrebari Frecvente" />
         <FullFaqArea />
         <CtaArea />
       </MainLayout>

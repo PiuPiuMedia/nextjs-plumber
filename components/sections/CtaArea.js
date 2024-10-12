@@ -11,10 +11,10 @@ export default function CtaArea() {
                 <div className="title-area mb-35">
                 <span className="sub-title call">
                     <i className="fa-solid fa-phone" />
-                    +163-2654-3654
+                    +40738 647 433
                 </span>
                 <h2 className="sec-title text-white">
-                    Looking For A Local Plumber in Your Area Contact Us Now!
+                    Căutați un instalator local în zona dumneavoastră? Contactați-ne acum!
                 </h2>
                 </div>
                 <div className="btn-group justify-content-center">

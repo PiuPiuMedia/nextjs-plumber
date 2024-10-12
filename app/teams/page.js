@@ -8,7 +8,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="Teams" />
+        <Breadcrumbs breadcrumbTitle="Echipa" />
         <FullTeamList />
         <CtaArea />
       </MainLayout>

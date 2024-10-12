@@ -16,22 +16,22 @@ export default function MobileMenu() {
             </div>
             <div className="themeholy-mobile-menu">
             <ul>
-                <li><Link href="/" passHref>Home</Link></li>
-                <li><Link href="/aboutus" passHref>About Us</Link></li>
-                <li><Link href="/services" passHref className="menu-item-has-children">Services</Link>
+                <li><Link href="/" passHref>Acasa</Link></li>
+                <li><Link href="/aboutus" passHref>Despre Noi</Link></li>
+                <li><Link href="/services" passHref className="menu-item-has-children">Servicii</Link>
                     <ul className="sub-menu">
-                        <li><Link href="/services/bathroom-plumbing" passHref>Bathroom Plumbing</Link></li>
-                        <li><Link href="/services/drain-plumbing" passHref>Drain Plumbing</Link></li>
-                        <li><Link href="/services/waterline-repair" passHref>Water Line Repair</Link></li>
-                        <li><Link href="/services/kitchen-plumbing" passHref>Kitchen Plumbing</Link></li>
-                        <li><Link href="/services/gasline-services" passHref>Gas Line Services</Link></li>
-                        <li><Link href="/services/pipe-cleaning" passHref>Pipe Cleaning</Link></li>
+                        <li><Link href="/services/bathroom-plumbing" passHref>Instalații sanitare pentru baie</Link></li>
+                        <li><Link href="/services/drain-plumbing" passHref>Instalații de drenaj</Link></li>
+                        <li><Link href="/services/waterline-repair" passHref>Reparații conducte de apă</Link></li>
+                        <li><Link href="/services/kitchen-plumbing" passHref>Instalații sanitare pentru bucătărie</Link></li>
+                        <li><Link href="/services/gasline-services" passHref>Servicii pentru conducte de gaz</Link></li>
+                        <li><Link href="/services/pipe-cleaning" passHref>Curățare țevi</Link></li>
                     </ul>
                 </li>
-                <li><Link href="/projects" passHref>Projects</Link></li>
-                <li><Link href="/teams" passHref>Teams</Link></li>
-                <li><Link href="/faq" passHref>FAQ</Link></li>
-                <li><Link href="/contactus" passHref>Contact Us</Link></li>
+                <li><Link href="/projects" passHref>Proiecte</Link></li>
+                <li><Link href="/teams" passHref>Echipa</Link></li>
+                <li><Link href="/faq" passHref>Intrebari Frecvente</Link></li>
+                <li><Link href="/contactus" passHref>Contacti-ne</Link></li>
             </ul>
             </div>
         </div>

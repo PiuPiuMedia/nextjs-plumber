@@ -9,8 +9,8 @@ export default function ContactArea() {
             <img src="img/icon/contact_1.svg" alt="Icon" />
             </div>
             <div className="title-area2">
-            <span className="subtitle">Emergency Services</span>
-            <h3 className="title">Having an urgent problem and can’t wait?</h3>
+            <span className="subtitle">Servicii de Urgenta</span>
+            <h3 className="title">Aveti o problema urgenta care nu poate astepta ?</h3>
             </div>
             <form
             action="mail.php"
@@ -19,11 +19,11 @@ export default function ContactArea() {
             >
             <div className="form-row">
                 <div className="form-group">
-                <label htmlFor="name">Your name *</label>
+                <label htmlFor="name">Numele Dvs. *</label>
                 <input type="text" className="form-control" name="name" id="name" />
                 </div>
                 <div className="form-group">
-                <label htmlFor="email">Your Email *</label>
+                <label htmlFor="email">Adresa de Email *</label>
                 <input
                     type="email"
                     className="form-control"
@@ -32,7 +32,7 @@ export default function ContactArea() {
                 />
                 </div>
                 <div className="form-group">
-                <label htmlFor="number">Phone Number *</label>
+                <label htmlFor="number">Numar de Telefon *</label>
                 <input
                     type="tel"
                     className="form-control"
@@ -41,7 +41,7 @@ export default function ContactArea() {
                 />
                 </div>
                 <div className="form-btn">
-                <button className="themeholy-btn style3">Submit Now</button>
+                <button className="themeholy-btn style3">Trimiteti !</button>
                 </div>
             </div>
             <p className="form-messages mb-0 mt-3" />

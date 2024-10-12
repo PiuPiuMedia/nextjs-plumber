@@ -9,7 +9,7 @@ export default function Sidemenu() {
             <i className="far fa-times" />
         </button>
         <div className="widget woocommerce widget_shopping_cart">
-            <h3 className="widget_title">Shopping cart</h3>
+            <h3 className="widget_title">Cos de Cumparaturi</h3>
             <div className="widget_shopping_cart_content">
             <ul className="woocommerce-mini-cart cart_list product_list_widget ">
                 <li className="woocommerce-mini-cart-item mini_cart_item">
