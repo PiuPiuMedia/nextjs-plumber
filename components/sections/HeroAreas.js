@@ -26,34 +26,32 @@ export default function HeroAreas() {
                     data-ani-delay="0.1s"
                 >
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    We are master of plumbing services
+                    Suntem specializati pe toata gama de servicii de instalatii sanitare
                 </span>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.3s"
                 >
-                    We Provide Effective
+                    Oferim Solutii Complete Pentru
                 </h1>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.5s"
                 >
-                    Plumbing Solution
+                    Instalatii Sanitare si Reparatii
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                    Looking for reliable plumbing services? Look no further than our
-                    team of expert plumbers! We offer a wide range of plumbing solutions
-                    to meet all your needs.
+                    Looking Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DISCOVER MORE <i className="fa-regular fa-arrow-right ms-2" /></Link>
-                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT US <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>
             </div>
@@ -73,34 +71,32 @@ export default function HeroAreas() {
                     data-ani-delay="0.1s"
                 >
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    Plumbing services is our passion
+                    Instalatiile Sanitare sunt domeniul nostru de expertiza
                 </span>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.3s"
                 >
-                    Our Popular Services
+                    Servicii Populare
                 </h1>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.5s"
                 >
-                    About Plumbing
+                    Despre Instalatii Sanitare
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                    Looking for reliable plumbing services? Look no further than our
-                    team of expert plumbers! We offer a wide range of plumbing solutions
-                    to meet all your needs.
+                    Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DISCOVER MORE <i className="fa-regular fa-arrow-right ms-2" /></Link>
-                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT US <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>
             </div>
@@ -120,34 +116,32 @@ export default function HeroAreas() {
                     data-ani-delay="0.1s"
                 >
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    We provide best plumbing services
+                    Oferim cele mai bune servicii si solutii
                 </span>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.3s"
                 >
-                    Plumbing Service is
+                    Servicii de Calitate
                 </h1>
                 <h1
                     className="hero-title"
                     data-ani="slideinleft"
                     data-ani-delay="0.5s"
                 >
-                    Our Main Motto
+                    Este Motto-ul Nostru
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                    Looking for reliable plumbing services? Look no further than our
-                    team of expert plumbers! We offer a wide range of plumbing solutions
-                    to meet all your needs.
+                Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DISCOVER MORE <i className="fa-regular fa-arrow-right ms-2" /></Link>
-                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT US <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT<i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>
             </div>

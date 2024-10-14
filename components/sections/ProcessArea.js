@@ -10,7 +10,7 @@ export default function ProcessArea() {
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
                 How It’s Work
             </span>
-            <h2 className="sec-title">Our Standard Working Process</h2>
+            <h2 className="sec-title">Procedura Standard de Lucru</h2>
             </div>
             <div className="process-card-area">
             <div className="row gx-0 gy-40 justify-content-center">
@@ -22,7 +22,7 @@ export default function ProcessArea() {
                         <img src="img/icon/process_card_1.svg" alt="icon" />
                     </div>
                     </div>
-                    <h2 className="box-title">Online Booking</h2>
+                    <h2 className="box-title">Solicitare rezervare online</h2>
                     <p className="process-card_text">
                     Online booking typically involves selecting a date and time,
                     choosing from available options, providing personal.
@@ -37,7 +37,7 @@ export default function ProcessArea() {
                         <img src="img/icon/process_card_2.svg" alt="icon" />
                     </div>
                     </div>
-                    <h2 className="box-title">Inspect &amp; Analyze</h2>
+                    <h2 className="box-title">Inspectie &amp; Analiza</h2>
                     <p className="process-card_text">
                     Inspect and analyze refers to the process of examining something
                     closely in order to gain a better understanding.

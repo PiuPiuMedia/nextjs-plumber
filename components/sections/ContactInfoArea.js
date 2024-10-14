@@ -12,7 +12,7 @@ export default function ContactInfoArea() {
                     <img src="img/icon/contact_2_1.svg" alt="icon" />
                 </div>
                 <span className="contact-feature_subtitle">Locatie</span>
-                <h3 className="box-title">Bucuresti, str. Sura Mare, sector 4</h3>
+                <h3 className="box-title">Bucuresti, str. Sura Mare</h3>
                 </div>
             </div>
             <div className="col-lg-4">

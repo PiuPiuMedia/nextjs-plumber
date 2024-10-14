@@ -7,7 +7,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="Bathroom Plumbing" />
+        <Breadcrumbs breadcrumbTitle="Instalații sanitare pentru baie" />
         <ProjectDetails />
       </MainLayout>
     </>
