@@ -1,5 +1,7 @@
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
+import { Analytics } from '@vercel/analytics/react';
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
@@ -23,6 +25,7 @@ export default function RootLayout({ children }) {
       
       <body>
         {children}
+        <Analytics />
       </body>
         
         <Script type="text/javascript" src="../js/vendor/jquery-3.6.0.min.js"/>
