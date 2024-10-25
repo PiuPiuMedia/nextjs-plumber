@@ -8,7 +8,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="Services" />
+        <Breadcrumbs breadcrumbTitle="Servicii" />
         <ServiceLists />
         <CtaArea />
       </MainLayout>

@@ -26,7 +26,7 @@ export default function HeroAreas() {
                     data-ani-delay="0.1s"
                 >
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    Suntem specializati pe toata gama de servicii de instalatii sanitare
+                    Suntem specializati pe toata gama de servicii de instalatii sanitare si termice
                 </span>
                 <h1
                     className="hero-title"
@@ -43,14 +43,17 @@ export default function HeroAreas() {
                     Instalatii Sanitare si Reparatii
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                    Looking Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
+                    Căutați servicii de încredere pentru instalații sanitare sau termice?
+                </p>
+                <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
+                    Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                     <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>
@@ -88,14 +91,17 @@ export default function HeroAreas() {
                     Despre Instalatii Sanitare
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                    Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
+                    Căutați servicii de încredere pentru instalații sanitare sau termice?
+                </p>
+                <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
+                    Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">MAI MULT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                     <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>
@@ -133,14 +139,17 @@ export default function HeroAreas() {
                     Este Motto-ul Nostru
                 </h1>
                 <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
-                Căutați servicii de instalații sanitare de încredere? Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
+                Căutați servicii de încredere pentru instalații sanitare sau termice?
+                </p>
+                <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.7s">
+                Echipa noastră de instalatori experți vă oferă o gamă largă de soluții sanitare pentru a vă satisface toate nevoile!
                 </p>
                 <div
                     className="btn-group"
                     data-ani="slideinleft"
                     data-ani-delay="0.9s"
                 >
-                    <Link href="/aboutus" passHref className="themeholy-btn style3">DESCOPERA MAI MULT<i className="fa-regular fa-arrow-right ms-2" /></Link>
+                    <Link href="/aboutus" passHref className="themeholy-btn style3">MAI MULT<i className="fa-regular fa-arrow-right ms-2" /></Link>
                     <Link href="/contactus" passHref className="themeholy-btn style2">CONTACT <i className="fa-regular fa-arrow-right ms-2" /></Link>
                 </div>
                 </div>

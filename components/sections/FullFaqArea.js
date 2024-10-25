@@ -10,7 +10,7 @@ export default function FullFaqArea() {
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
                 Faq’s
             </span>
-            <h2 className="sec-title">Frequently Asked Question?</h2>
+            <h2 className="sec-title">Intrebari Frecvente</h2>
             </div>
             <div className="row">
             <div className="col-xl-7 mb-5 mb-xl-0">
@@ -25,7 +25,7 @@ export default function FullFaqArea() {
                         aria-expanded="true"
                         aria-controls="collapse-1"
                     >
-                        1. What Kind Of Work Can A Handyman Do?
+                        1. Ce tip de lucrari poate efectua un instalator?
                     </button>
                     </div>
                     <div
@@ -35,12 +35,17 @@ export default function FullFaqArea() {
                     data-bs-parent="#faqAccordion"
                     >
                     <div className="accordion-body">
-                        <p className="faq-text">
-                        A handyman is a skilled professional who can perform a wide
-                        range of repair and maintenance tasks around your home or
-                        business. From basic plumbing and electrical work to
-                        carpentry, painting.
-                        </p>
+                    <p className="faq-text">
+    Un instalator este un profesionist calificat care poate efectua o gamă largă de lucrări de instalații, reparatii și întreținere. Acestea includ:
+  </p>
+  <ul className="faq-list"> {/* Unordered list for the tasks */}
+    <li><strong>Instalarea și repararea conductelor</strong>: Montarea, întreținerea și repararea conductelor de apă, gaz și drenaj.</li>
+    <li><strong>Reparații la robinete și accesorii</strong>: Remedierea scurgerilor, înlocuirea robinetelor defecte și instalarea de accesorii sanitare.</li>
+    <li><strong>Instalarea sistemelor de încălzire</strong>: Montarea și întreținerea sistemelor de încălzire, cum ar fi centralele termice și radiatoarele.</li>
+    <li><strong>Întreținerea și repararea sistemelor de drenaj</strong>: Curățarea și repararea canalizărilor și a sistemelor de drenaj pentru a preveni blocajele.</li>
+    <li><strong>Instalarea aparatelor de uz sanitar</strong>: Montarea chiuvetelor, căzilor, dușurilor și toaletelor.</li>
+    <li><strong>Soluționarea problemelor de presiune a apei</strong>: Identificarea și rezolvarea problemelor legate de presiunea apei în rețea.</li>
+  </ul>
                     </div>
                     </div>
                 </div>
@@ -54,7 +59,7 @@ export default function FullFaqArea() {
                         aria-expanded="false"
                         aria-controls="collapse-2"
                     >
-                        2. Can A Handyman Do Plumbing Work?
+                        2. Ce servicii de urgență oferă un instalator ?
                     </button>
                     </div>
                     <div
@@ -64,12 +69,14 @@ export default function FullFaqArea() {
                     data-bs-parent="#faqAccordion"
                     >
                     <div className="accordion-body">
-                        <p className="faq-text">
-                        A handyman is a skilled professional who can perform a wide
-                        range of repair and maintenance tasks around your home or
-                        business. From basic plumbing and electrical work to
-                        carpentry, painting.
-                        </p>
+                    <p className="faq-text">
+    Un instalator oferă servicii de urgență imediate pentru a rezolva problemele critice de instalații. Acestea includ:
+  </p>
+  <ul className="faq-list">
+    <li><strong>Reparații la scurgeri urgente</strong>: Intervenții rapide pentru a remedia scurgerile de apă sau de gaz.</li>
+    <li><strong>Deblocarea canalizărilor</strong>: Interventii de urgență pentru a elimina blocajele severe din sistemele de drenaj.</li>
+    <li><strong>Încălzire de urgență</strong>: Repararea sistemelor de încălzire defecte în timpul iernii.</li>
+  </ul>
                     </div>
                     </div>
                 </div>
@@ -83,7 +90,7 @@ export default function FullFaqArea() {
                         aria-expanded="false"
                         aria-controls="collapse-3"
                     >
-                        3. Does A Handyman Need Insurance?
+                        3. Cum pot preveni problemele de instalații sanitare?
                     </button>
                     </div>
                     <div
@@ -93,12 +100,14 @@ export default function FullFaqArea() {
                     data-bs-parent="#faqAccordion"
                     >
                     <div className="accordion-body">
-                        <p className="faq-text">
-                        A handyman is a skilled professional who can perform a wide
-                        range of repair and maintenance tasks around your home or
-                        business. From basic plumbing and electrical work to
-                        carpentry, painting.
-                        </p>
+                    <p className="faq-text">
+    Există mai multe măsuri pe care le puteți lua pentru a preveni problemele de instalații sanitare, inclusiv:
+  </p>
+  <ul className="faq-list">
+    <li><strong>Întreținerea regulată</strong>: Efectuarea inspecțiilor periodice ale instalațiilor pentru a identifica problemele din timp.</li>
+    <li><strong>Curățarea sistemelor de drenaj</strong>: Utilizarea de produse de curățare pentru a preveni blocajele.</li>
+    <li><strong>Monitorizarea consumului de apă</strong>: Verificarea contorului de apă pentru a detecta eventuale scurgeri.</li>
+  </ul>
                     </div>
                     </div>
                 </div>
@@ -112,7 +121,7 @@ export default function FullFaqArea() {
                         aria-expanded="false"
                         aria-controls="collapse-4"
                     >
-                        4. How Should I Pay To A Pumbler?
+                        4. Cât costă serviciile unui instalator?
                     </button>
                     </div>
                     <div
@@ -122,12 +131,14 @@ export default function FullFaqArea() {
                     data-bs-parent="#faqAccordion"
                     >
                     <div className="accordion-body">
-                        <p className="faq-text">
-                        A handyman is a skilled professional who can perform a wide
-                        range of repair and maintenance tasks around your home or
-                        business. From basic plumbing and electrical work to
-                        carpentry, painting.
-                        </p>
+                    <p className="faq-text">
+    Costurile serviciilor unui instalator pot varia în funcție de mai mulți factori, inclusiv:
+  </p>
+  <ul className="faq-list">
+    <li><strong>Tipul lucrării</strong>: Lucrările simple, cum ar fi repararea unui robinet, sunt de obicei mai ieftine decât lucrările complexe, cum ar fi instalarea unui sistem de încălzire.</li>
+    <li><strong>Urgentarea serviciilor</strong>: Intervențiile de urgență pot implica costuri suplimentare.</li>
+    <li><strong>Localizarea geografică</strong>: Tarifele pot varia în funcție de zona în care se află proprietatea.</li>
+  </ul>
                     </div>
                     </div>
                 </div>
@@ -141,7 +152,7 @@ export default function FullFaqArea() {
                         aria-expanded="false"
                         aria-controls="collapse-5"
                     >
-                        5. What is the correct height of a gas water heater?
+                        5. Ce măsuri de siguranță ia un instalator în timpul lucrărilor?
                     </button>
                     </div>
                     <div
@@ -151,12 +162,14 @@ export default function FullFaqArea() {
                     data-bs-parent="#faqAccordion"
                     >
                     <div className="accordion-body">
-                        <p className="faq-text">
-                        A handyman is a skilled professional who can perform a wide
-                        range of repair and maintenance tasks around your home or
-                        business. From basic plumbing and electrical work to
-                        carpentry, painting.
-                        </p>
+                    <p className="faq-text">
+    Un instalator ia mai multe măsuri de siguranță pentru a asigura un mediu de lucru sigur, inclusiv:
+  </p>
+  <ul className="faq-list">
+    <li><strong>Utilizarea echipamentului de protecție personală</strong>: Instalatorii poartă mănuși, ochelari de protecție și alte echipamente necesare pentru a preveni accidentele.</li>
+    <li><strong>Identificarea riscurilor</strong>: Evaluarea atentă a locului de muncă pentru a identifica posibilele pericole și a le evita.</li>
+    <li><strong>Respectarea standardelor de siguranță</strong>: Aplicarea tuturor reglementărilor și standardelor de siguranță în vigoare pentru a proteja atât clienții, cât și echipa de muncă.</li>
+  </ul>
                     </div>
                     </div>
                 </div>
@@ -165,7 +178,7 @@ export default function FullFaqArea() {
             <div className="col-xl-5">
                 <div className="quote-form-card">
                 <h4 className="form-title text-center">
-                    Have Any <span className="text-theme">Other</span> Question?
+                    Aveti <span className="text-theme">Alte </span>Intrebări? 
                 </h4>
                 <form
                     action="mail.php"
@@ -179,7 +192,7 @@ export default function FullFaqArea() {
                         className="form-control"
                         name="name"
                         id="name"
-                        placeholder="Your Name"
+                        placeholder="Nume"
                         />
                     </div>
                     <div className="form-group col-12">
@@ -188,7 +201,7 @@ export default function FullFaqArea() {
                         className="form-control"
                         name="email"
                         id="email"
-                        placeholder="Email Address"
+                        placeholder="Adresa de Email"
                         />
                     </div>
                     <div className="form-group col-12">
@@ -198,12 +211,12 @@ export default function FullFaqArea() {
                         cols={30}
                         rows={3}
                         className="form-control"
-                        placeholder="Your Message"
+                        placeholder="Mesajul Dvs."
                         defaultValue={""}
                         />
                     </div>
                     <div className="form-btn col-12">
-                        <button className="themeholy-btn btn-fw">Submit Now</button>
+                        <button className="themeholy-btn btn-fw">Trimite</button>
                     </div>
                     </div>
                     <p className="form-messages mb-0 mt-3" />

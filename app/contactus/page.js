@@ -9,7 +9,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="Contactati-ne" />
+        <Breadcrumbs breadcrumbTitle="Contact" />
         <ContactInfoArea />
         <MapContactArea />
         <CounterArea />

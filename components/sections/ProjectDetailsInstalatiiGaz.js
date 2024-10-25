@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-export default function ProjectDetails() {
+export default function ProjectDetailsInstalatiiGaz() {
   return (
     <>
     <section className="space-top space-extra-bottom">
@@ -16,21 +16,12 @@ export default function ProjectDetails() {
                 />
               </div>
               <div className="page-content">
-                <h2 className="h3 page-title">Bathroom Plumbing</h2>
+                <h2 className="h3 page-title">Servicii instalații de gaz</h2>
                 <p>
-                  Bathroom Plumbing refers to the plumbing system installed in a
-                  basement, which includes the pipes, valves, and fixtures that
-                  supply water and remove waste. Basements are typically located
-                  below ground level, which can pose unique challenges for plumbing
-                  installation and maintenance.
+                Asigurați-vă confortul și siguranța casei dumneavoastră cu serviciile noastre de instalații de gaz de înaltă calitate. Echipa noastră de instalatori experți este dedicată să ofere soluții personalizate pentru toate nevoile dumneavoastră, de la instalarea sistemelor de alimentare cu gaz, până la întreținerea și repararea echipamentelor existente. Fie că doriți să înlocuiți un sistem vechi sau să adăugați noi aparate, suntem aici să vă ajutăm să transformați locuința într-un spațiu sigur și eficient.
                 </p>
                 <p className="mb-30">
-                  Bathroom Plumbing may include the installation of a sump pump to
-                  prevent flooding, as well as a sewage ejector pump to remove waste
-                  from bathroom plumbing fixtures such as toilets, sinks, and
-                  showers. Additionally, a basement may have a water heater, washing
-                  machine, or other water-using appliances that require plumbing
-                  connections.
+                Folosim cele mai recente tehnici și echipamente pentru a asigura o instalație corectă și durabilă. Fiecare proiect este realizat cu o atenție deosebită la detalii și respectând cele mai înalte standarde de siguranță. Echipa noastră este pregătită să gestioneze orice provocare, oferindu-vă soluții eficiente care să dureze în timp. Cu noi, nu trebuie să vă faceți griji în legătură cu viitoarele probleme de gaz – ne asigurăm că fiecare detaliu este executat cu precizie.
                 </p>
                 <div className="row">
                   <div className="col-md-6 mb-30">
@@ -49,38 +40,26 @@ export default function ProjectDetails() {
                   </div>
                 </div>
                 <p className="mb-4">
-                  Common issues with basement plumbing can include leaks, clogs, and
-                  backups, which can cause water damage and health hazards if not
-                  addressed promptly. To prevent these issues, it's important to
-                  properly maintain your basement plumbing system by cleaning your
-                  drains regularly, checking for leaks, and repairing any damage or
-                  malfunctions as soon as they are detected.
+                În plus, știm că confortul și siguranța dumneavoastră sunt priorități esențiale. De aceea, ne angajăm să oferim un serviciu rapid și de încredere, fără a compromite calitatea. Indiferent dacă aveți nevoie de asistență urgentă sau doriți să programați o evaluare a instalațiilor de gaz existente, suntem aici pentru a răspunde tuturor întrebărilor dumneavoastră. Nu lăsați problemele legate de instalatia de gaz să vă afecteze confortul – contactați-ne și descoperiți soluțiile noastre eficiente!
                 </p>
                 <h3 className="h4 mb-20">
-                  Our Commercial Plumbing is always guaranteed.
+                  Serviciile noastre de instalații de gaz sunt întotdeauna garantate.
                 </h3>
                 <p className="mb-4">
-                  If you're experiencing plumbing issues in your basement, it's best
-                  to call a licensed plumber to assess the situation and make any
-                  necessary repairs. A professional plumber can help you identify
-                  the cause of the problem and ensure that your basement plumbing
-                  system is functioning properly and safely.
+                Așadar, nu mai așteptați! Contactați-ne acum pentru a solicita o ofertă personalizată și pentru a programa o întâlnire cu unul dintre experții noștri în instalații de gaz. Vă garantăm servicii excelente la prețuri competitive, asigurându-vă un mediu sigur și confortabil. Împreună, vom crea un spațiu pe care să-l apreciați zi de zi!
                 </p>
                 <div className="row mb-20">
                   <div className="col-md-6 mb-10">
                     <div className="checklist">
                       <ul>
                         <li>
-                          <i className="fas fa-badge-check" /> We provide the most
-                          reasonable cost.
+                          <i className="fas fa-badge-check" /> Oferim cele mai rezonabile costuri.
                         </li>
                         <li>
-                          <i className="fas fa-badge-check" /> Finish work before
-                          Deadline.
+                          <i className="fas fa-badge-check" /> Finalizam lucrările înainte de termen.
                         </li>
                         <li>
-                          <i className="fas fa-badge-check" /> The certified
-                          materials in a timely.
+                          <i className="fas fa-badge-check" /> Folosim materiale de cele mai buna calitate.
                         </li>
                       </ul>
                     </div>
@@ -89,16 +68,13 @@ export default function ProjectDetails() {
                     <div className="checklist">
                       <ul>
                         <li>
-                          <i className="fas fa-badge-check" /> Dedicated and skilled
-                          professionals
+                          <i className="fas fa-badge-check" /> Tehnicieni si instalatori autorizati.
                         </li>
                         <li>
-                          <i className="fas fa-badge-check" /> Offering all jobs
-                          guaranteed &amp; neatly done
+                          <i className="fas fa-badge-check" /> Garantie pentru toate lucrarile.
                         </li>
                         <li>
-                          <i className="fas fa-badge-check" /> We provide 24/7 on
-                          time services
+                          <i className="fas fa-badge-check" /> Interventii de urgenta 24/7
                         </li>
                       </ul>
                     </div>
@@ -110,9 +86,9 @@ export default function ProjectDetails() {
                       <img src="../img/icon/service_feature_1.svg" alt="icon" />
                     </div>
                     <div className="media-body">
-                      <h4 className="service-feature_title">Installation</h4>
+                      <h4 className="service-feature_title">Instalare</h4>
                       <p className="service-feature_text">
-                        Interactively predominate out-of the box best practices.
+                        Instalații profesionale pentru proiecte funcționale și durabile.
                       </p>
                     </div>
                   </div>
@@ -121,9 +97,9 @@ export default function ProjectDetails() {
                       <img src="../img/icon/service_feature_2.svg" alt="icon" />
                     </div>
                     <div className="media-body">
-                      <h4 className="service-feature_title">Cleaning</h4>
+                      <h4 className="service-feature_title">Curățare</h4>
                       <p className="service-feature_text">
-                        Interactively predominate out-of the box best practices.
+                      Curățarea locatiei dupa interventie
                       </p>
                     </div>
                   </div>
@@ -132,9 +108,9 @@ export default function ProjectDetails() {
                       <img src="../img/icon/service_feature_3.svg" alt="icon" />
                     </div>
                     <div className="media-body">
-                      <h4 className="service-feature_title">Replacing</h4>
+                      <h4 className="service-feature_title">Înlocuire</h4>
                       <p className="service-feature_text">
-                        Interactively predominate out-of the box best practices.
+                      Înlocuiri rapide și eficiente pentru echipamentele de gaz vechi.
                       </p>
                     </div>
                   </div>
@@ -143,9 +119,9 @@ export default function ProjectDetails() {
                       <img src="../img/icon/service_feature_4.svg" alt="icon" />
                     </div>
                     <div className="media-body">
-                      <h4 className="service-feature_title">Repairing</h4>
+                      <h4 className="service-feature_title">Reparare</h4>
                       <p className="service-feature_text">
-                        Interactively predominate out-of the box best practices.
+                      Reparații rapide pentru orice problemă, fără stres.
                       </p>
                     </div>
                   </div>
@@ -161,18 +137,17 @@ export default function ProjectDetails() {
                 data-bg-src="../img/bg/widget_bg_1.jpg"
               >
                 <div className="widget-call">
-                  <h4 className="box-title">Emergency Plumbing?</h4>
-                  <div className="play-btn">
+                  <h4 className="box-title">Interventii De Urgenta ?</h4>
+                  <a href="tel:+40738647433" className="play-btn">
                     <i className="fa-solid fa-phone" />
-                  </div>
-                  <a href={+16326543654} className="call">
-                    +163-2654-3654
+                  </a>
+                  <a href={+40738647433} className="call">
+                    Apel Call Center
                   </a>
                   <p className="text">
-                    Contact the plumber or plumbing company to schedule a service
-                    call. Be prepared to provide help about the problem.
+                    Contactați-ne pentru a programa o vizită. Fiți pregătiți să oferiți detalii despre problemă.
                   </p>
-                  <Link href="/" passHref className="themeholy-btn style3">Get a Quote</Link>
+                  <Link href="/" passHref className="themeholy-btn style3">Solicita o oferta</Link>
                 </div>
               </div>
             </aside>

@@ -26,7 +26,7 @@ export default function Sidemenu() {
                 <span className="quantity">
                     1 ×
                     <span className="woocommerce-Price-amount amount">
-                    <span className="woocommerce-Price-currencySymbol">$</span>
+                    <span className="woocommerce-Price-currencySymbol">RON</span>
                     940.00
                     </span>
                 </span>

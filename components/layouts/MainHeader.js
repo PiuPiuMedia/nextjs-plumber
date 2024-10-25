@@ -34,7 +34,7 @@ export default function MainHeader() {
                             </span>
                             
                             <a href="tel:+40738647433" className="header-info_link">
-                                0738.647.433
+                                Apeleaza Call-Center
                             </a>
                             </div>
                         </div>
@@ -42,15 +42,15 @@ export default function MainHeader() {
                         <div className="col-auto">
                         <div className="header-info">
                             <div className="icon-btn">
-                            <i className="fas fa-messages" />
+                            <i className="fas fa-envelope" />
                             </div>
                             <div className="media-body">
                             <span className="header-info_label">Trimiteti un Email: </span>
                             <a
-                                href="mailto:crusanescu@gmail.com"
+                                href="mailto:office@mia-smart.ro"
                                 className="header-info_link"
                             >
-                                crusanescu@gmail.com
+                                Office@Mia-Smart.ro
                             </a>
                             </div>
                         </div>
@@ -58,17 +58,17 @@ export default function MainHeader() {
                         <div className="col-auto">
                         <div className="header-info">
                             <div className="icon-btn">
-                            <i className="fas fa-location-dot" />
+                            <i className="fab fa-whatsapp" />
                             </div>
                             <div className="media-body">
                             <span className="header-info_label">
-                                Locatie:{" "}
+                                Mesaj Whatsapp:{" "}
                             </span>
                             <a
-                                href="https://www.google.com/maps"
+                                href="https://wa.me/40738647433" target="_blank"
                                 className="header-info_link"
                             >
-                                Bucuresti, str. Sura Mare, sector 4
+                                Click Aici
                             </a>
                             </div>
                         </div>

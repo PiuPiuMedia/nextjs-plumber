@@ -11,10 +11,9 @@ export default function FeaturesArea() {
                 <div className="choose-feature_icon">
                     <img src="img/icon/choose_feature_1.svg" alt="Icon" />
                 </div>
-                <h3 className="box-title">Affordable Price</h3>
+                <h3 className="box-title">Prețuri accesibile</h3>
                 <p className="choose-feature_text">
-                    We provide pricing &amp; detailed estimates, so know what expect
-                    work begins.
+                    Oferim estimări detaliate și transparente, astfel încât să știi la ce să te aștepți înainte de începerea lucrărilor.
                 </p>
                 </div>
             </div>
@@ -23,10 +22,9 @@ export default function FeaturesArea() {
                 <div className="choose-feature_icon">
                     <img src="img/icon/choose_feature_2.svg" alt="Icon" />
                 </div>
-                <h3 className="box-title">Expert Plumber</h3>
+                <h3 className="box-title">Instalatori experți</h3>
                 <p className="choose-feature_text">
-                    Our plumbers are licensed, and have years of experience all types
-                    plumbing.
+                    Instalatorii noștri sunt licențiați și au ani de experiență în toate tipurile de lucrări de instalații sanitare.
                 </p>
                 </div>
             </div>
@@ -35,10 +33,9 @@ export default function FeaturesArea() {
                 <div className="choose-feature_icon">
                     <img src="img/icon/choose_feature_3.svg" alt="Icon" />
                 </div>
-                <h3 className="box-title">Quality Improve</h3>
+                <h3 className="box-title">Profesionalism</h3>
                 <p className="choose-feature_text">
-                    We provide pricing &amp; detailed estimates, so know what expect
-                    work begins.
+                    Fiecare proiect este abordat cu o atenție deosebită la detalii, asigurându-ne că rezultatul final este optim.
                 </p>
                 </div>
             </div>
@@ -47,10 +44,9 @@ export default function FeaturesArea() {
                 <div className="choose-feature_icon">
                     <img src="img/icon/choose_feature_4.svg" alt="Icon" />
                 </div>
-                <h3 className="box-title">100% Certified</h3>
+                <h3 className="box-title">Calitate 100%</h3>
                 <p className="choose-feature_text">
-                    We provide pricing &amp; detailed estimates, so know what expect
-                    work begins.
+                    Poți avea încredere că lucrările vor fi realizate de profesioniști respectand standardele de calitate și siguranță.
                 </p>
                 </div>
             </div>

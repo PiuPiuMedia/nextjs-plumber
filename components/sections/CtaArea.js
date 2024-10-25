@@ -14,12 +14,12 @@ export default function CtaArea() {
                     +40738 647 433
                 </span>
                 <h2 className="sec-title text-white">
-                    Căutați un instalator local în zona dumneavoastră? Contactați-ne acum!
+                    Cauți un instalator local în zona ta? Contacteaza-ne acum!
                 </h2>
                 </div>
                 <div className="btn-group justify-content-center">
-                    <Link href="/contactus" passHref className="themeholy-btn style3">Book A Online</Link>
-                    <Link href="/contactus" passHref className="themeholy-btn style2">Contact Us</Link>
+                    <Link href="/contactus" passHref className="themeholy-btn style3">Solicitare On-Line</Link>
+                    <Link href="/contactus" passHref className="themeholy-btn style2">Contact</Link>
                 </div>
             </div>
             </div>

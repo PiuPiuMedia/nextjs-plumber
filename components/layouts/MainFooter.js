@@ -21,15 +21,15 @@ export default function MainFooter() {
                     <h4 className="title">Program de Functionare</h4>
                     <p className="schedule-info">
                     <span>Luni - Vineri</span>
-                    <span>8:00 - 18:00 PM</span>
+                    <span>8:00 - 22:00</span>
                     </p>
                     <p className="schedule-info">
                     <span>Sambata</span>
-                    <span>9:00 - 17:00</span>
+                    <span>9:00 - 19:00</span>
                     </p>
                     <p className="schedule-info">
                     <span>Duminica</span>
-                    <span>Inchis</span>
+                    <span>Doar Urgente</span>
                     </p>
                 </div>
                 </div>
@@ -39,7 +39,7 @@ export default function MainFooter() {
                 <div className="newsletter-wrap">
                     <div className="newsletter-content">
                     <h4 className="newsletter-title">
-                        Înscrie-te pentru a primi actualizări și noutăți despre noi.
+                        Înscrie-te pentru a primi actualizări.
                     </h4>
                     </div>
                     <form className="newsletter-form">
@@ -70,7 +70,7 @@ export default function MainFooter() {
                             <li><Link href="/projects" passHref>Proiecte</Link></li>
                             <li><Link href="/teams" passHref>Echipa</Link></li>
                             <li><Link href="/faq" passHref>Intrebari Frecvente</Link></li>
-                            <li><Link href="/contactus" passHref>Contactati-ne</Link></li>
+                            <li><Link href="/contactus" passHref>Contact</Link></li>
                         </ul>
                         </div>
                     </div>
@@ -81,34 +81,34 @@ export default function MainFooter() {
                         <div className="menu-all-pages-container">
                         <ul className="menu">
                             <li><Link href="/services/bathroom-plumbing" passHref>Instalații sanitare pentru baie</Link></li>
-                            <li><Link href="/services/drain-plumbing" passHref>Instalații de drenaj</Link></li>
-                            <li><Link href="/services/waterline-repair" passHref>Reparații conducte de apă</Link></li>
+                            <li><Link href="/services/drain-plumbing" passHref>Instalații sisteme de drenaj</Link></li>
+                            <li><Link href="/services/waterline-repair" passHref>Reparații la instalațiile de apă</Link></li>
                             <li><Link href="/services/kitchen-plumbing" passHref>Instalații sanitare pentru bucătărie</Link></li>
-                            <li><Link href="/services/gasline-services" passHref>Servicii pentru conducte de gaz</Link></li>
-                            <li><Link href="/services/pipe-cleaning" passHref>Curățare țevi</Link></li>
+                            <li><Link href="/services/gasline-services" passHref>Servicii instalații de gaz</Link></li>
+                            <li><Link href="/services/pipe-cleaning" passHref>Curățare conducte si tevi</Link></li>
                         </ul>
                         </div>
                     </div>
                     </div>
                     <div className="col-sm-6 col-md-auto">
                     <div className="widget footer-widget">
-                        <h3 className="widget_title">Contactati-ne</h3>
+                        <h3 className="widget_title">Contact</h3>
                         <div className="themeholy-widget-contact">
-                        <div className="info-box">
+                        <a href="https://wa.me/40738647433" target="_blank" className="info-box">
                             <div className="info-box_icon">
-                            <i className="fas fa-location-dot" />
+                            <i className="fab fa-whatsapp" />
                             </div>
                             <p className="info-box_text">
-                            Bucuresti, Sector 4, str. Sura Mare
+                            Mesaj Whatsapp
                             </p>
-                        </div>
+                        </a>
                         <div className="info-box">
                             <div className="info-box_icon">
                             <i className="fas fa-phone" />
                             </div>
                             <p className="info-box_text">
                             <a href="tel:+40738647433" className="info-box_link">
-                                0738.647.433
+                                Apeleaza Call-Center
                             </a>
                             </p>
                         </div>
@@ -118,10 +118,10 @@ export default function MainFooter() {
                             </div>
                             <p className="info-box_text">
                             <a
-                                href="mailto:crusanescu@gmail.com"
+                                href="mailto:office@mia-smart.ro"
                                 className="info-box_link"
                             >
-                                crusanescu@gmail.com
+                                Office@Mia-Smart.ro
                             </a>
                             </p>
                         </div>

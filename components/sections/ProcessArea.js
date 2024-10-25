@@ -8,7 +8,7 @@ export default function ProcessArea() {
             <div className="title-area text-center">
             <span className="sub-title">
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                How It’s Work
+                Cum Functioneaza ?
             </span>
             <h2 className="sec-title">Procedura Standard de Lucru</h2>
             </div>
@@ -24,8 +24,7 @@ export default function ProcessArea() {
                     </div>
                     <h2 className="box-title">Solicitare rezervare online</h2>
                     <p className="process-card_text">
-                    Online booking typically involves selecting a date and time,
-                    choosing from available options, providing personal.
+                    Procesul de rezervare online permite selectarea unei date și ore convenabile, alegerea din opțiunile disponibile și completarea informațiilor personale necesare pentru confirmarea solicitării.
                     </p>
                 </div>
                 </div>
@@ -39,8 +38,7 @@ export default function ProcessArea() {
                     </div>
                     <h2 className="box-title">Inspectie &amp; Analiza</h2>
                     <p className="process-card_text">
-                    Inspect and analyze refers to the process of examining something
-                    closely in order to gain a better understanding.
+                    Inspecția și analiza implică o evaluare detaliată pentru a înțelege pe deplin situația și pentru a identifica potențialele probleme sau soluții, asigurând o intervenție eficientă.
                     </p>
                 </div>
                 </div>
@@ -52,10 +50,9 @@ export default function ProcessArea() {
                         <img src="img/icon/process_card_3.svg" alt="icon" />
                     </div>
                     </div>
-                    <h2 className="box-title">Solving Problem</h2>
+                    <h2 className="box-title">Solutionarea Problemei</h2>
                     <p className="process-card_text">
-                    Solving a problem refers to the process of finding a solution to a
-                    particular issue or challenge that is preventing outcome.
+                    Procesul de soluționare a unei probleme constă în găsirea unei soluții adecvate pentru a depăși provocările care împiedică atingerea rezultatelor dorite, oferind o rezolvare eficientă și durabilă.
                     </p>
                 </div>
                 </div>

@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectDetails from '@/components/sections/ProjectDetails'
+import ProjectDetailsInstalatiiBaie from '@/components/sections/ProjectDetailsInstalatiiBaie'
 import MainLayout from '@/components/layouts/MainLayout'
 import Breadcrumbs from '@/components/layouts/Breadcrumbs'
 
@@ -8,7 +8,7 @@ export default function page() {
     <>
       <MainLayout>
         <Breadcrumbs breadcrumbTitle="Instalații sanitare pentru baie" />
-        <ProjectDetails />
+        <ProjectDetailsInstalatiiBaie />
       </MainLayout>
     </>
   );

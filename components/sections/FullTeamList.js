@@ -9,9 +9,9 @@ export default function FullTeamList() {
             <div className="title-area text-center">
             <span className="sub-title">
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                Expert Team
+                Echipa de Experti
             </span>
-            <h2 className="sec-title">Meet The Expert Team Member</h2>
+            <h2 className="sec-title">Faceti Cunostinta cu Profesionistii</h2>
             </div>
             <div className="row gy-30">
             {/* Single Item */}
@@ -21,9 +21,10 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_1.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    Mac Alexixe
+                Rusanescu Cristian
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Strateg în Soluțiile Propuse</span>
+                <span className="team-desig">Inginer coordonator </span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -39,9 +40,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_2.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    <a href="team-details.html">Alex Julian</a>
+                    <a href="team-details.html">Mihai Alexandru Barbu</a>
                 </h3>
-                <span className="team-desig">Electrician</span>
+                <span className="team-desig">Electrician-Sef</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -57,9 +58,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_3.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    Henry Joseph
+                Cristian Emil Petrescu
                 </h3>
-                <span className="team-desig">Carpenter</span>
+                <span className="team-desig">Supervizor Proiecte</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -75,9 +76,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_4.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    Thiago Almada
+                    Ion Lucian Văduva
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Responsabil Tehnic</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -93,9 +94,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_5.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    Amelia Margaret
+                    Ana-Maria Raduș
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Coordonator Operațional</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -111,9 +112,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_6.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    William David
+                    Radu Florin Toma
                 </h3>
-                <span className="team-desig">Electrician</span>
+                <span className="team-desig">Tehnician Principal</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -129,9 +130,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_7.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    James Charlie
+                    Gabriel Dorian Mihăilescu
                 </h3>
-                <span className="team-desig">Carpenter</span>
+                <span className="team-desig">Tehnician</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -147,9 +148,9 @@ export default function FullTeamList() {
                     <img src="img/team/team_3_8.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                    Charlotte Sarah
+                    Elena-Simona Dragomir
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Specialistă în instalații</span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>

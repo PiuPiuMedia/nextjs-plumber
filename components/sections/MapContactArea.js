@@ -13,7 +13,7 @@ export default function MapContactArea() {
             <div className="col-xl-8 offset-xl-4">
                 <div className="quote-form-box bg-transparent">
                 <h4 className="form-title text-center">
-                    Get A <span className="text-theme">Free</span> Quote
+                    Solicitati <span className="text-theme">Oferta de Pret</span> Gratis
                 </h4>
                 <form
                     action="mail.php"
@@ -27,7 +27,7 @@ export default function MapContactArea() {
                         className="form-control"
                         name="name"
                         id="name"
-                        placeholder="Your Name"
+                        placeholder="Numele Dvs."
                         />
                     </div>
                     <div className="form-group col-md-6">
@@ -36,7 +36,7 @@ export default function MapContactArea() {
                         className="form-control"
                         name="email"
                         id="email"
-                        placeholder="Email Address"
+                        placeholder="Adresa de Email"
                         />
                     </div>
                     <div className="form-group col-md-6">
@@ -45,18 +45,18 @@ export default function MapContactArea() {
                         className="form-control"
                         name="number"
                         id="number"
-                        placeholder="Phone Number"
+                        placeholder="Numar de Telefon"
                         />
                     </div>
                     <div className="form-group col-md-6">
                         <select name="subject" id="subject" className="form-select">
                         <option value="" disabled="" hidden="">
-                            Select Subject
+                            Selectare Subiect
                         </option>
-                        <option value="AC Installation">AC Installation</option>
-                        <option value="Plumbing Service">Plumbing Service</option>
-                        <option value="AC Repairing">AC Repairing</option>
-                        <option value="Dust Cleaning">Dust Cleaning</option>
+                        <option value="AC Installation">Servicii de instalatii sanitare</option>
+                        <option value="Plumbing Service">Servicii de instalatii termice</option>
+                        <option value="AC Repairing">Servicii de instalare AC</option>
+                        <option value="Dust Cleaning">Interventie de Urgenta</option>
                         </select>
                     </div>
                     <div className="form-group col-12">
@@ -66,12 +66,12 @@ export default function MapContactArea() {
                         cols={30}
                         rows={3}
                         className="form-control"
-                        placeholder="Your Message"
+                        placeholder="Mesajul Dvs."
                         defaultValue={""}
                         />
                     </div>
                     <div className="form-btn col-12">
-                        <button className="themeholy-btn btn-fw">Submit Now</button>
+                        <button className="themeholy-btn btn-fw">Trimite</button>
                     </div>
                     </div>
                     <p className="form-messages mb-0 mt-3" />

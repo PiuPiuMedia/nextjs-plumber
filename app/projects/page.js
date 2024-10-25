@@ -9,7 +9,7 @@ export default function page() {
   return (
     <>
       <MainLayout>
-        <Breadcrumbs breadcrumbTitle="Projects"/>
+        <Breadcrumbs breadcrumbTitle="Proiecte"/>
         <ProjectList />
         <CtaArea />
       </MainLayout>

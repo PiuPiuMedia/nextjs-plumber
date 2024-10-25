@@ -11,9 +11,9 @@ export default function ProjectArea() {
                 <div className="title-area text-center text-lg-start">
                 <span className="sub-title">
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    Latest Projects
+                    Proiecte
                 </span>
-                <h2 className="sec-title">Our Completed Projects</h2>
+                <h2 className="sec-title">Proiecte Finisate Cu Succes</h2>
                 </div>
             </div>
             <div className="col-auto">
