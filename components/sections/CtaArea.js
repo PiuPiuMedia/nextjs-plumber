@@ -9,10 +9,10 @@ export default function CtaArea() {
             <div className="row justify-content-center">
             <div className="col-md-9 text-center">
                 <div className="title-area mb-35">
-                <span className="sub-title call">
+                <a href="tel:+40738647433" className="sub-title call">
                     <i className="fa-solid fa-phone" />
-                    +40738 647 433
-                </span>
+                    0738 647 433
+                </a>
                 <h2 className="sec-title text-white">
                     Cauți un instalator local în zona ta? Contacteaza-ne acum!
                 </h2>

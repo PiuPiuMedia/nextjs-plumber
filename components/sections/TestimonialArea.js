@@ -11,9 +11,9 @@ export default function TestimonialArea() {
             <div className="title-area text-center">
             <span className="sub-title">
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                Testimonials
+                Testimoniale
             </span>
-            <h2 className="sec-title">What Our Customer Says?</h2>
+            <h2 className="sec-title">Ce parere au Clientii nostri?</h2>
             </div>
             <div
             className="row themeholy-carousel"
@@ -28,7 +28,7 @@ export default function TestimonialArea() {
                     <img src="img/icon/quote_1.svg" alt="quote" />
                 </div>
                 <div className="testi-card_avater">
-                    <img src="img/testimonial/testi_1_1.jpg" alt="testimonial" />
+                    <img src="img/testimonial/testi_1_Carol.jpg" alt="testimonial" />
                     <div className="testi-card_review">
                     <i className="fa-solid fa-star-sharp" />
                     <i className="fa-solid fa-star-sharp" />
@@ -38,13 +38,10 @@ export default function TestimonialArea() {
                     </div>
                 </div>
                 <div className="testi-card_content">
-                    <h3 className="testi-card_name">Alex Farnandes</h3>
-                    <span className="testi-card_desig">UI/UX Designer</span>
+                    <h3 className="testi-card_name">Carol Nicolaescu</h3>
+                    <span className="testi-card_desig">Director General, KIC-Group </span>
                     <p className="testi-card_text">
-                    The plumber arrived on time and was very professional and
-                    friendly. He quickly diagnosed the problem and provided me with a
-                    clear explanation of what needed to be done. He was able to
-                    complete the repairs.
+                    Ca director al unei companii de administrare de condominii, am colaborat cu această echipă de instalații și pot spune cu toată sinceritatea că sunt profesioniști. Au o experiență vastă în lucrul cu asociațiile de locatari și sunt foarte bine pregătiți pentru a răspunde nevoilor specifice ale acestora. Proiectele sunt întotdeauna finalizate la timp, iar prețurile oferite sunt extrem de competitive. Serviciile lor reflectă un înalt nivel de profesionalism și responsabilitate, așa că îi recomand cu încredere tuturor celor care caută calitate și seriozitate în acest domeniu.
                     </p>
                 </div>
                 </div>
@@ -65,13 +62,10 @@ export default function TestimonialArea() {
                     </div>
                 </div>
                 <div className="testi-card_content">
-                    <h3 className="testi-card_name">Abraham Khalil</h3>
-                    <span className="testi-card_desig">CEO at Corola</span>
+                    <h3 className="testi-card_name">Mihai Dumitrescu</h3>
+                    <span className="testi-card_desig">Director Executiv, NextGen Estate</span>
                     <p className="testi-card_text">
-                    If you are looking for a reliable and efficient plumbing service,
-                    look no further than XYZ Plumbing. I recently had an issue with my
-                    kitchen sink that was causing water to leak onto my floor. I
-                    called XYZ Plumbing.
+                    În domeniul nostru, este esențial să avem parteneri de încredere care respectă termenele și oferă servicii de calitate. Echipa de instalații sanitare ne-a depășit așteptările – profesionalismul lor, seriozitatea și capacitatea de a lucra excelent cu asociațiile de locatari i-au făcut un partener valoros. Prețurile sunt corecte și competitive, iar rezultatele sunt întotdeauna impecabile. Recomand cu încredere acest serviciu pentru orice proiect de instalații sanitare.
                     </p>
                 </div>
                 </div>
@@ -93,12 +87,9 @@ export default function TestimonialArea() {
                 </div>
                 <div className="testi-card_content">
                     <h3 className="testi-card_name">Mariana Sonia</h3>
-                    <span className="testi-card_desig">UI/UX Designer</span>
+                    <span className="testi-card_desig">Manager General, Smart Property Management</span>
                     <p className="testi-card_text">
-                    Overall, I was very impressed with the service I received from XYZ
-                    Plumbing. The staff was friendly and knowledgeable, and the work
-                    was completed quickly and effectively. I would highly recommend
-                    this plumbing.
+                    Am fost plăcut impresionată de serviciile oferite de această echipă de profesioniști în instalații sanitare. Colaborarea cu ei a fost fluidă, eficientă și, cel mai important, au fost mereu la timp și foarte atenți la detalii. În special pentru asociațiile de locatari, au demonstrat o înțelegere excelentă a cerințelor specifice, iar raportul calitate-preț este unul greu de egalat. Recomand cu încredere această echipă celor care caută parteneri serioși."
                     </p>
                 </div>
                 </div>

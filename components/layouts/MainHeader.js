@@ -16,7 +16,7 @@ export default function MainHeader() {
                 <div className="col-auto">
                     <div className="header-logo">
                         <Link href="/" passHref>
-                            <img src="../img/logo.webp" alt="Plumer" />
+                            <img src="../img/logo_blue_3.webp" alt="Mia Smart Logo" />
                         </Link>
                     </div>
                 </div>

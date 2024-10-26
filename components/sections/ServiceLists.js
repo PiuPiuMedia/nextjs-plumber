@@ -19,13 +19,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_1.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Basement Plumbing
+                        Desfundare Canalizari si Scurgeri
                     </h3>
                     <p className="service-block_text">
-                        Basement plumbing is an essential part of any home. You are looking
-                        to finish your basement or just need repairs.
+                    Desfundarea canalizărilor este crucială pentru un drenaj eficient. Folosind „șarpele electric,” echipa noastră elimină rapid blocajele, asigurându-vă scurgeri clare și fără mirosuri neplăcute. Contactați-ne pentru soluții rapide și eficiente!
                     </p>
-                    <Link href="/services/drain-plumbing" passHref className="themeholy-btn">Read More</Link>
+                    <Link href="/services/pipe-cleaning" passHref className="themeholy-btn">Mai Multe</Link>
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -48,13 +47,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_2.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Drain Plumbing
+                        Instalații și Înlocuire Sisteme de Drenaj
                     </h3>
                     <p className="service-block_text">
-                        Drain plumbing is a critical component of any homes plumbing system.
-                        When drains become clogged or damaged.
+                        Asigurăm instalarea și înlocuirea sistemelor de drenaj pentru un flux optim de apă. Echipa noastră folosește echipamente avansate pentru soluții durabile și eficiente. Contactați-ne pentru drenaje fiabile și sigure!
                     </p>
-                    <Link href="/services/drain-plumbing" passHref className="themeholy-btn">Read More</Link>     
+                    <Link href="/services/drain-plumbing" passHref className="themeholy-btn">Mai Multe</Link>     
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -77,13 +75,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_3.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Water Line Repair
+                        Reparații la Instalațiile de Apă
                     </h3>
                     <p className="service-block_text">
-                        A broken or leaking water line can cause significant damage to your
-                        home and property. If you suspect a problem.
+                        Oferim reparații rapide și eficiente pentru instalațiile de apă, prevenind scurgerile și optimizând consumul. Echipa noastră asigură soluții durabile pentru confortul și siguranța dumneavoastră. Contactați-ne pentru reparații efectuate de profesionisti !
                     </p>
-                    <Link href="/services/waterline-repair" passHref className="themeholy-btn">Read More</Link>
+                    <Link href="/services/waterline-repair" passHref className="themeholy-btn">Mai Multe</Link>
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -106,13 +103,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_4.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Kitchen Plumbing
+                        Instalații Sanitare pentru Bucatarie
                     </h3>
                     <p className="service-block_text">
-                        Some common kitchen plumbing issues include clogged drains, leaky
-                        faucets, malfunctioning garbage disposals.
+                        Optimizați funcționalitatea bucătăriei cu instalații sanitare moderne și eficiente! Echipa noastră asigură montajul corect al chiuvetelor, robinetelor și conductelor, garantând durabilitate și confort. Contactați-ne pentru servicii profesionale și rapide!
                     </p>
-                    <Link href="/services/kitchen-plumbing" passHref className="themeholy-btn">Read More</Link>
+                    <Link href="/services/kitchen-plumbing" passHref className="themeholy-btn">Mai Multe</Link>
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -135,13 +131,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_5.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Gas Line Services
+                        Instalatii pentru Sisteme de Gaz
                     </h3>
                     <p className="service-block_text">
-                        Gas lines are used to supply natural gas or propane to appliances
-                        such as stoves, ovens, water heaters, and furnaces..
+                        Siguranța și eficiența sunt esențiale în instalațiile de gaz. Echipa noastră de experți asigură montajul și verificarea sistemelor de gaz pentru o funcționare sigură și optimă. Contactați-ne pentru soluții profesionale și sigure în instalațiile de gaz!
                     </p>
-                    <Link href="/services/gasline-services" passHref className="themeholy-btn">Read More</Link>
+                    <Link href="/services/gasline-services" passHref className="themeholy-btn">Mai Multe</Link>
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />
@@ -164,13 +159,12 @@ export default function ServiceLists() {
                         <img src="img/service/service_block_6.jpg" alt="Image" />
                     </div>
                     <h3 className="box-title">
-                        Bathroom Services
+                        Instalatii si reparații pentru Baie
                     </h3>
                     <p className="service-block_text">
-                        Bathroom plumbing is a critical part of any homes plumbing system.
-                        From sinks and toilets to showers and bathtubs.
+                        Renovați și reparați instalatia din baie pentru un spațiu confortabil și funcțional! Echipa noastră se ocupă de montajul și reparația instalațiilor sanitare, de la țevi și robinete până la cabine de duș și chiuvete. Contactați-ne pentru servicii rapide și de calitate!
                     </p>
-                    <Link href="/services/bathroom-plumbing" passHref className="themeholy-btn">Read More</Link>
+                    <Link href="/services/bathroom-plumbing" passHref className="themeholy-btn">Mai Multe</Link>
                     <div className="ripple-shape">
                         <span className="ripple-1" />
                         <span className="ripple-2" />

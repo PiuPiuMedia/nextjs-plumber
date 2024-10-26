@@ -18,13 +18,12 @@ export default function FullTeamList() {
             <div className="col-sm-6 col-lg-4 col-xl-3">
                 <div className="themeholy-team team-grid">
                 <div className="team-img">
-                    <img src="img/team/team_3_1.jpg" alt="Team" />
+                    <img src="img/team/team_1_Cristi.jpg" alt="Team" />
                 </div>
                 <h3 className="box-title">
-                Rusanescu Cristian
+                 Cristian Rusanescu
                 </h3>
-                <span className="team-desig">Strateg în Soluțiile Propuse</span>
-                <span className="team-desig">Inginer coordonator </span>
+                <span className="team-desig">Strateg si Inginer coordonator </span>
                 <div className="social-links">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>

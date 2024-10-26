@@ -15,9 +15,9 @@ export default function TeamArea() {
       <div className="title-area text-center">
         <span className="sub-title">
           <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-          Expert Team
+          Echipa Mia-Smart
         </span>
-        <h2 className="sec-title text-white">Meet The Expert Plumber</h2>
+        <h2 className="sec-title text-white">Faceti Cunostinta Cu Echipa De Experti</h2>
       </div>
       <div
         className="row slider-shadow themeholy-carousel"
@@ -32,7 +32,7 @@ export default function TeamArea() {
         <div className="col-sm-6 col-lg-4 col-xl-3">
           <div className="themeholy-team team-card">
             <div className="team-img">
-              <img src="img/team/team_1_1.jpg" alt="Team" />
+              <img src="img/team/team_1_Cristi.jpg" alt="Team" />
               <div className="themeholy-social">
                 <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                 <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -46,9 +46,9 @@ export default function TeamArea() {
               </div>
               <div className="media-body">
                 <h3 className="box-title">
-                  <a href="team-details.html">Rokie Royals</a>
+                  <a href="team-details.html">Cristian</a>
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Inginer coordonator</span>
               </div>
             </div>
           </div>
@@ -71,9 +71,9 @@ export default function TeamArea() {
               </div>
               <div className="media-body">
                 <h3 className="box-title">
-                  <a href="team-details.html">Jesica Sinthiya</a>
+                  <a href="team-details.html">Ana-Maria</a>
                 </h3>
-                <span className="team-desig">Electrician</span>
+                <span className="team-desig">Coordonator Operațional</span>
               </div>
             </div>
           </div>
@@ -96,9 +96,9 @@ export default function TeamArea() {
               </div>
               <div className="media-body">
                 <h3 className="box-title">
-                  <a href="team-details.html">Alex Michel</a>
+                  <a href="team-details.html">Lucian</a>
                 </h3>
-                <span className="team-desig">Carpenter</span>
+                <span className="team-desig">Responsabil Tehnic</span>
               </div>
             </div>
           </div>
@@ -121,9 +121,9 @@ export default function TeamArea() {
               </div>
               <div className="media-body">
                 <h3 className="box-title">
-                  <a href="team-details.html">Henry Joseph</a>
+                  <a href="team-details.html">Alexandru</a>
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Electrician-Sef</span>
               </div>
             </div>
           </div>
@@ -146,9 +146,9 @@ export default function TeamArea() {
               </div>
               <div className="media-body">
                 <h3 className="box-title">
-                  <a href="team-details.html">Sanjida Carlose</a>
+                  <a href="team-details.html">Simona</a>
                 </h3>
-                <span className="team-desig">Plumber</span>
+                <span className="team-desig">Specialistă în instalații</span>
               </div>
             </div>
           </div>

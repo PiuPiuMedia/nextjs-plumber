@@ -13,7 +13,7 @@ export default function ServiceArea() {
             data-bottom={0}
             data-right="1%"
         >
-            <img src="img/shape/man_shape_2.png" alt="shape" />
+            <img src="img/shape/output__1_-removebg-preview.png" alt="shape" />
         </div>
         <div className="container">
             <div className="row justify-content-lg-between justify-content-center align-items-center">
@@ -21,14 +21,14 @@ export default function ServiceArea() {
                 <div className="title-area text-center text-lg-start">
                 <span className="sub-title">
                     <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                    Our Services
+                    Servicii Oferite
                 </span>
-                <h2 className="sec-title">See Our Plumbing Services</h2>
+                <h2 className="sec-title">Servicii Populare</h2>
                 </div>
             </div>
             <div className="col-auto">
                 <div className="sec-btn">
-                <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service">Explore All Services</Link>
+                <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service">Vezi toate serviciile</Link>
                 </div>
             </div>
             </div>{" "}
@@ -44,19 +44,17 @@ export default function ServiceArea() {
             <div className="col-md-6 col-xl-4">
                 <div className="service-card">
                 <div className="service-card_icon">
-                    <img src="img/icon/service_card_1.svg" alt="Icon" />
+                    <img src="img/icon/istockphoto-979549762-612x612.svg" alt="Icon" />
                 </div>
                 <div className="service-card_content">
                     <div className="shape1" />
                     <h3 className="box-title">
-                    Basement Plumbing
+                    Desfundare Canalizari si Scurgeri 
                     </h3>
                     <p className="service-card_text">
-                    Basement plumbing is an essential part of any home. You are
-                    looking to finish your basement or just need repairs to existing
-                    plumbing service.
+                    Desfundarea canalizărilor este crucială pentru un drenaj eficient. Folosind „șarpele electric,” echipa noastră elimină rapid blocajele, asigurându-vă scurgeri clare și fără mirosuri neplăcute. Contactați-ne pentru soluții rapide și eficiente!
                     </p>
-                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Read More</Link>
+                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service">Mai Multe</Link>
                     <div className="ripple-shape">
                     <span className="ripple-1" />
                     <span className="ripple-2" />
@@ -76,14 +74,12 @@ export default function ServiceArea() {
                 <div className="service-card_content">
                     <div className="shape1" />
                     <h3 className="box-title">
-                    Drain Plumbing
+                    Instalații și Înlocuire Sisteme de Drenaj
                     </h3>
                     <p className="service-card_text">
-                    Drain plumbing is a critical component of any homes plumbing
-                    system. When drains become clogged or damaged, it can cause a host
-                    of problems.
+                    Asigurăm instalarea și înlocuirea sistemelor de drenaj pentru un flux optim de apă. Echipa noastră folosește echipamente avansate pentru soluții durabile și eficiente. Contactați-ne pentru drenaje fiabile și sigure!
                     </p>
-                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Read More</Link>
+                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Mai Multe</Link>
                     <div className="ripple-shape">
                     <span className="ripple-1" />
                     <span className="ripple-2" />
@@ -103,14 +99,12 @@ export default function ServiceArea() {
                 <div className="service-card_content">
                     <div className="shape1" />
                     <h3 className="box-title">
-                    <a href="service-details.html">Water Line Repair</a>
+                    <a href="service-details.html">Reparații la Instalațiile de Apă Comerciale sau Rezidentiale</a>
                     </h3>
                     <p className="service-card_text">
-                    A broken or leaking water line can cause significant damage to
-                    your home and property. If you suspect a problem with your water
-                    line.
+                    Oferim reparații rapide și eficiente pentru instalațiile de apă, prevenind scurgerile și optimizând consumul. Echipa noastră asigură soluții durabile pentru confortul și siguranța dumneavoastră. Contactați-ne pentru reparații efectuate de profesionisti !
                     </p>
-                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Read More</Link>
+                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Mai Multe</Link>
                     <div className="ripple-shape">
                     <span className="ripple-1" />
                     <span className="ripple-2" />
@@ -130,14 +124,12 @@ export default function ServiceArea() {
                 <div className="service-card_content">
                     <div className="shape1" />
                     <h3 className="box-title">
-                    Bathroom Plumbing
+                    Instalații Sanitare si Reparatii pentru Baie
                     </h3>
                     <p className="service-card_text">
-                    Bathroom plumbing is a critical part of any homes plumbing system.
-                    From sinks and toilets to showers and bathtubs, your bathroom
-                    plumbing.
+                    Transformați baia într-un spațiu funcțional și modern! Echipa noastră asigură instalarea de înaltă calitate a tuturor elementelor sanitare, de la robinete și chiuvete la cabine de duș. Contactați-ne pentru servicii profesionale și durabile!
                     </p>
-                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Read More</Link>
+                    <Link href="/services" passHref className="themeholy-btn" alt="Pristine Plumbing & Repairing Service"> Mai Multe</Link>
                     <div className="ripple-shape">
                     <span className="ripple-1" />
                     <span className="ripple-2" />

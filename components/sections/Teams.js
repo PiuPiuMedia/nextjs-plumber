@@ -9,9 +9,9 @@ export default function Teams() {
             <div className="title-area text-center">
             <span className="sub-title">
                 <img src="img/theme-img/title_shape_1.svg" alt="shape" />
-                Expert Team
+                Echipa de Experti
             </span>
-            <h2 className="sec-title">Meet The Expert Plumber</h2>
+            <h2 className="sec-title">Faceti Cunostinta cu Profesionistii</h2>
             </div>
             <div
             className="row slider-shadow themeholy-carousel"
@@ -26,7 +26,7 @@ export default function Teams() {
             <div className="col-sm-6 col-lg-4 col-xl-3">
                 <div className="themeholy-team team-card">
                 <div className="team-img">
-                    <img src="img/team/team_1_1.jpg" alt="Team" />
+                    <img src="img/team/team_1_Cristi.jpg" alt="Team" />
                     <div className="themeholy-social">
                     <Link href="https://facebook.com/" passHref><i className="fab fa-facebook-f" /></Link>
                     <Link href="https://twitter.com/" passHref><i className="fab fa-twitter" /></Link>
@@ -40,9 +40,9 @@ export default function Teams() {
                     </div>
                     <div className="media-body">
                     <h3 className="box-title">
-                        Rokie Royals
+                        Cristian
                     </h3>
-                    <span className="team-desig">Plumber</span>
+                    <span className="team-desig">Inginer coordonator</span>
                     </div>
                 </div>
                 </div>
@@ -65,9 +65,9 @@ export default function Teams() {
                     </div>
                     <div className="media-body">
                     <h3 className="box-title">
-                        Jesica Sinthiya
+                        Ana-Maria
                     </h3>
-                    <span className="team-desig">Electrician</span>
+                    <span className="team-desig">Coordonator Operațional</span>
                     </div>
                 </div>
                 </div>
@@ -90,9 +90,9 @@ export default function Teams() {
                     </div>
                     <div className="media-body">
                     <h3 className="box-title">
-                        Alex Michel
+                        Lucian
                     </h3>
-                    <span className="team-desig">Carpenter</span>
+                    <span className="team-desig">Responsabil Tehnic</span>
                     </div>
                 </div>
                 </div>
@@ -115,9 +115,9 @@ export default function Teams() {
                     </div>
                     <div className="media-body">
                     <h3 className="box-title">
-                        Henry Joseph
+                        Alexandru
                     </h3>
-                    <span className="team-desig">Plumber</span>
+                    <span className="team-desig">Electrician-Sef</span>
                     </div>
                 </div>
                 </div>
@@ -140,9 +140,9 @@ export default function Teams() {
                     </div>
                     <div className="media-body">
                     <h3 className="box-title">
-                        Sanjida Carlose
+                        Simona
                     </h3>
-                    <span className="team-desig">Plumber</span>
+                    <span className="team-desig">Specialistă în instalații</span>
                     </div>
                 </div>
                 </div>
