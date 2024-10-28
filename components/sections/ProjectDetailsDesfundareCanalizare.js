@@ -11,7 +11,7 @@ export default function ProjectDetailsDesfundareCanalizare() {
             <div className="page-single">
               <div className="page-img">
                 <img
-                  src="../img/service/service_details.jpg"
+                  src="../img/service/ndxp-2x1zdlzq52m7-sotgl.jpg"
                   alt="Service Image"
                 />
               </div>
@@ -28,14 +28,14 @@ export default function ProjectDetailsDesfundareCanalizare() {
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_1.jpg"
+                      src="../img/service/sarpe-desfundare-canalizare.jpg"
                       alt="service"
                     />
                   </div>
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_2.jpg"
+                      src="../img/service/23423423.jpeg"
                       alt="service"
                     />
                   </div>

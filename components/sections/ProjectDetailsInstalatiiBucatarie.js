@@ -34,7 +34,7 @@ export default function ProjectDetailsInstalatiiBucatarie() {
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_2.jpg"
+                      src="../img/service/Captur23233e.JPG"
                       alt="service"
                     />
                   </div>

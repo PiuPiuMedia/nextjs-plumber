@@ -11,7 +11,7 @@ export default function ProjectDetailsInstalatiiBaie() {
             <div className="page-single">
               <div className="page-img">
                 <img
-                  src="../img/service/service_details.jpg"
+                  src="../img/service/bathroom_085.jpg"
                   alt="Service Image"
                 />
               </div>
@@ -27,14 +27,14 @@ export default function ProjectDetailsInstalatiiBaie() {
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_1.jpg"
+                      src="../img/service/bathroom_002.jpeg"
                       alt="service"
                     />
                   </div>
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_2.jpg"
+                      src="../img/service/sanitary-and-plumbing-systems1.jpg"
                       alt="service"
                     />
                   </div>

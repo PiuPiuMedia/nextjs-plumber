@@ -11,7 +11,7 @@ export default function ProjectDetailsInstalatiiDrenaj() {
             <div className="page-single">
               <div className="page-img">
                 <img
-                  src="../img/service/service_details.jpg"
+                  src="../img/service/sisteme-de-drenaj-961145.jpg"
                   alt="Service Image"
                 />
               </div>
@@ -27,14 +27,14 @@ export default function ProjectDetailsInstalatiiDrenaj() {
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_1.jpg"
+                      src="../img/service/Main-Water-Service-Repair.jpeg"
                       alt="service"
                     />
                   </div>
                   <div className="col-md-6 mb-30">
                     <img
                       className="w-100"
-                      src="../img/service/service_inner_2.jpg"
+                      src="../img/service/445557c09c320442c8a78d1350cbb77e.png"
                       alt="service"
                     />
                   </div>
