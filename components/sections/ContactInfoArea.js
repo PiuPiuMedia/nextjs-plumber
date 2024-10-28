@@ -22,7 +22,7 @@ export default function ContactInfoArea() {
                 </div>
                 <span className="contact-feature_subtitle">Aveti o intrebare ?</span>
                 <h3 className="box-title">
-                    <a href="tel:+40738647433"> Apel Call-Center</a>
+                    <a href="tel:+40738647433"> +40.738.647.433</a>
                 </h3>
                 </div>
             </a>

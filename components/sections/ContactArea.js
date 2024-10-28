@@ -12,40 +12,26 @@ export default function ContactArea() {
             <span className="subtitle">Servicii de Urgenta</span>
             <h3 className="title">Aveti o problema urgenta care nu poate astepta ?</h3>
             </div>
-            <form
-            action="mail.php"
-            method="POST"
-            className="appoitment-form1 ajax-contact"
-            >
-            <div className="form-row">
-                <div className="form-group">
-                <label htmlFor="name">Numele Dvs. *</label>
-                <input type="text" className="form-control" name="name" id="name" />
+            <a href="tel:+40738647433" className="col-lg-4">
+                <div className="contact-feature bg-theme">
+                <div className="contact-feature_icon">
+                    <img src="img/icon/contact_2_2.svg" alt="icon" />
                 </div>
-                <div className="form-group">
-                <label htmlFor="email">Adresa de Email *</label>
-                <input
-                    type="email"
-                    className="form-control"
-                    name="email"
-                    id="email"
-                />
+                <span className="contact-feature_subtitle">Aveti o intrebare ?</span>
+                <h3 className="box-title">
+                    <a href="tel:+40738647433"> +40.738.647.433</a>
+                </h3>
                 </div>
-                <div className="form-group">
-                <label htmlFor="number">Numar de Telefon *</label>
-                <input
-                    type="tel"
-                    className="form-control"
-                    name="number"
-                    id="number"
-                />
+            </a>
+            <a href="https://wa.me/40738647433" target="_blank" className="col-lg-4">
+                <div className="contact-feature">
+                <div className="contact-feature_icon">
+                    <img src="img/icon/contact_2_1.svg" alt="icon" />
                 </div>
-                <div className="form-btn">
-                <button className="themeholy-btn style3">Trimiteti !</button>
+                <span className="contact-feature_subtitle">Preferati Whatsapp ?</span>
+                <h3 className="box-title">Apasa pentru a ne trimite un mesaj</h3>
                 </div>
-            </div>
-            <p className="form-messages mb-0 mt-3" />
-            </form>
+            </a>
         </div>
     </div>
 

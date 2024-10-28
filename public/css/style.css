@@ -1733,6 +1733,7 @@ textarea.is-invalid {
   margin-top: -0.24em;
   text-transform: capitalize;
   font-weight: 600;
+  color: var(--black-color);
 }
 
 .sub-title {
@@ -1740,7 +1741,7 @@ textarea.is-invalid {
   font-size: 20px;
   font-weight: 500;
   font-family: var(--title-font);
-  color: var(--theme-color);
+  color: var(--black-color);
   margin-bottom: 30px;
   text-transform: capitalize;
   line-height: 24px;
@@ -1757,14 +1758,14 @@ textarea.is-invalid {
 
 .sub-title.call {
   font-size: 30px;
-  color: var(--white-color);
+  color: var(--black-color);
   /* Medium devices */
 }
 
 @media (max-width: 991px) {
   .sub-title.call {
     font-size: 22px;
-    color: var(--white-color);
+    color: var(--black-color);
   }
 }
 

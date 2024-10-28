@@ -180,47 +180,26 @@ export default function FullFaqArea() {
                 <h4 className="form-title text-center">
                     Aveti <span className="text-theme">Alte </span>Intrebări? 
                 </h4>
-                <form
-                    action="mail.php"
-                    method="POST"
-                    className="contact-form ajax-contact"
-                >
-                    <div className="row">
-                    <div className="form-group col-12">
-                        <input
-                        type="text"
-                        className="form-control"
-                        name="name"
-                        id="name"
-                        placeholder="Nume"
-                        />
-                    </div>
-                    <div className="form-group col-12">
-                        <input
-                        type="email"
-                        className="form-control"
-                        name="email"
-                        id="email"
-                        placeholder="Adresa de Email"
-                        />
-                    </div>
-                    <div className="form-group col-12">
-                        <textarea
-                        name="message"
-                        id="message"
-                        cols={30}
-                        rows={3}
-                        className="form-control"
-                        placeholder="Mesajul Dvs."
-                        defaultValue={""}
-                        />
-                    </div>
-                    <div className="form-btn col-12">
-                        <button className="themeholy-btn btn-fw">Trimite</button>
-                    </div>
-                    </div>
-                    <p className="form-messages mb-0 mt-3" />
-                </form>
+                <a href="tel:+40738647433" className="col-lg-4">
+                <div className="contact-feature bg-theme">
+                <div className="contact-feature_icon">
+                    <img src="img/icon/contact_2_2.svg" alt="icon" />
+                </div>
+                <span className="contact-feature_subtitle">Aveti o intrebare ?</span>
+                <h3 className="box-title">
+                    <a href="tel:+40738647433"> +40.738.647.433</a>
+                </h3>
+                </div>
+            </a>
+            <a href="https://wa.me/40738647433" target="_blank" className="col-lg-4">
+                <div className="contact-feature">
+                <div className="contact-feature_icon">
+                    <img src="img/icon/contact_2_1.svg" alt="icon" />
+                </div>
+                <span className="contact-feature_subtitle">Preferati Whatsapp ?</span>
+                <h3 className="box-title">Apasa pentru a ne trimite un mesaj</h3>
+                </div>
+            </a>
                 </div>
             </div>
             </div>

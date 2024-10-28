@@ -10,6 +10,8 @@ export default function FaqArea() {
             <div className="col-xl-6 col-lg-10 text-center text-xl-start ">
               <div className="title-area mb-30">
                 <span className="sub-title">
+
+                  
                   <img src="img/theme-img/title_shape_1.svg" alt="shape" />
                   Intrebari frecvente
                 </span>
