@@ -19,6 +19,15 @@ export default function RootLayout({ children }) {
         <link rel="stylesheet" href="../css/magnific-popup.min.css"/>
         <link rel="stylesheet" href="../css/slick.min.css"/>
         <link rel="stylesheet" href="../css/style.css"/>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16761455676"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'AW-16761455676');
+        </script>
       </head>
       
       <body>
@@ -34,6 +43,15 @@ export default function RootLayout({ children }) {
         <Script type="text/javascript" src="../js/imagesloaded.pkgd.min.js"/>
         <Script type="text/javascript" src="../js/isotope.pkgd.min.js"/>
         <Script type="text/javascript" src="../js/main.js"/>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16761455676"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'AW-16761455676');
+        </script>
     </html>
   )
 }
