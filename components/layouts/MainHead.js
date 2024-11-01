@@ -13,6 +13,16 @@ const MainHead = ({ title, description }) => {
         <link rel="stylesheet" href="../css/magnific-popup.min.css"/>
         <link rel="stylesheet" href="../css/slick.min.css"/>
         <link rel="stylesheet" href=".../css/style.css"/>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16761455676">
+        </script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'AW-16761455676');
+        </script>
     </Head>
  );
 };
