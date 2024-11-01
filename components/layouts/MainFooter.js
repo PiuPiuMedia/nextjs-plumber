@@ -118,10 +118,10 @@ export default function MainFooter() {
                             </div>
                             <p className="info-box_text">
                             <a
-                                href="mailto:office@mia-smart.ro"
+                                href="mailto:mia.smart.instalatii@gmail.com"
                                 className="info-box_link"
                             >
-                                Office@Mia-Smart.ro
+                                mia.smart.instalatii@gmail.com
                             </a>
                             </p>
                         </div>

@@ -47,10 +47,10 @@ export default function MainHeader() {
                             <div className="media-body">
                             <span className="header-info_label">Trimiteti un Email: </span>
                             <a
-                                href="mailto:office@mia-smart.ro"
+                                href="mailto:mia.smart.instalatii@gmail.com"
                                 className="header-info_link"
                             >
-                                Office@Mia-Smart.ro
+                                Click Aici
                             </a>
                             </div>
                         </div>

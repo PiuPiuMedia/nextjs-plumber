@@ -26,7 +26,7 @@ export default function ContactInfoArea() {
                 </h3>
                 </div>
             </a>
-            <a href="mailto:office@mia-smart.ro" className="col-lg-4">
+            <a href="mailto:mia.smart.instalatii@gmail.com" className="col-lg-4">
                 <div className="contact-feature">
                 <div className="contact-feature_icon">
                     <img src="img/icon/contact_2_3.svg" alt="icon" />
@@ -34,7 +34,7 @@ export default function ContactInfoArea() {
                 <div className="contact-feature_content">
                     <span className="contact-feature_subtitle">Scrieti-ne un Email catre</span>
                     <h3 className="box-title">
-                    <a href="mailto:office@mia-smart.ro">Office@Mia-Smart.ro</a>
+                    <a href="mailto:mia.smart.instalatii@gmail.com">Office@Mia-Smart.ro</a>
                     </h3>
                 </div>
                 </div>
